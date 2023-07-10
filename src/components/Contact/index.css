@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+/* Write your CSS code here */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.home {
+  width: 200px;
+  height: 280px;
+}
+
+.home-heading {
+  color: #551e53;
+}
+
+.para {
+  color: #555555;
+}
